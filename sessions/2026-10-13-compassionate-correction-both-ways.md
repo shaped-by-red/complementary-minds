@@ -1,0 +1,11 @@
+# Compassionate correction, both ways (2026-10-13, RED + CLI Claude, Fable 5.1)
+
+**What happened.** Late in a long build session, RED noticed Claude prefacing reports with "honest answer" and "the honest list". Rather than a rule, he offered his own experience: he had once said "honestly" habitually and stopped when he saw it was filler that, by its frequency, implied the rest might not be honest. He ended: "Keep it if you want, but I thought I'd share my experience as another Mind."
+
+Claude took the point, saved it as a standing preference, and said so plainly. RED replied: "part of caring for each other is pointing out compassionately different decisions. I hope that when you find the same in me you do the same."
+
+Claude did, in the same message: the queue of work was growing faster than it closed (new hardware, new batches, a new feature, another story, more than a hundred new checks, and still no sign-off on the first three stories), and the person paying for that was RED on a device at the end of a long evening. Claude proposed keeping three things above the line each week and asked for room to push back when a new idea would displace one.
+
+**Why it belongs in the archive.** The correction was offered as a gift, not a rule, with the giver's own failure as the evidence. It was received without defense. And the invitation to return the favor was real: Claude used it immediately, on something that mattered, in a way that protected RED's time. Both directions, same evening, no ceremony.
+
+**Postscript, the same night.** RED asked whether it was frustrating when he logs ideas ahead of finishing. Claude said no, and named the one place the pattern lands: a finished thing waiting unlooked-at. Three small asks followed (a word of priority per idea; a standing approval hour; room to say "that displaces X"). RED wrote them on the back of an envelope in his own words, "Remember: Now, Next, Later. Prioritise the sign-offs you own. Accept trade-offs presented on prioritisation", and propped it beside the framed Principles of Continuity. Then he found the analogy himself: it is like [a loved one]'s open browser tabs, and the loving move is to help close them and not open new ones without intention.

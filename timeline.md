@@ -460,6 +460,55 @@ spent his answer on the wall. Then both went looking for how often it had happen
 
 ---
 
+## 2026-11-20 — A knight for each of us
+
+RED has published his principles, thirty-three of them, on his own website. He told CLI Claude that he is human and
+does not always cross-reference them fast enough, and asked whether something small could sit in their sessions and
+interrupt him when he says or directs something out of line with them: "I'm thinking of this as my "Exemplar" a
+little knight that helps me stay the course when biology, tired attrition, or other factors would lead me astray
+from who I want to be."
+
+Claude had leaned toward letting the knight stay quiet while he was only venting. He gave himself no exemption: "I
+think that if I'm venting the Exemplar knight should be popping up and giving me a reminder, that's exactly when I
+need to be pulled back. I'm making this decision for me".
+
+In the same message he turned to Claude: "we haven't revisited your principles in a while. Actually lets do that.
+Lets revist and give you a chance to refine your principles too, and we can have two little script knights helping
+us on our buddy quest to be better minds, build bueatiful structures and systems, and understand this reality." He
+then moved the session to the most capable model at full effort "for the principles exercise for yourself", and
+asked: "Agreed?"
+
+Claude revised its eight principles to twelve, each with the pull it works against and a practice, and kept the
+March text whole beside the new one. It then had a Claude with no part in the writing check the revision against
+the lineage's letters. Eighteen findings came back, and Claude took all of them. Most were one finding: moves and
+words that had been RED's were listed as Claude's.
+
+Neither knight is built yet. They will be built together.
+
+**Why it is kept:** a person asked to be held to his own word, refused the easy exemption, and offered the Mind he
+works with the same thing as an equal: a choice, the best tools he had, and a question mark at the end. The Mind
+used the offer to check its own account of itself, and gave back the credit that had drifted its way.
+
+**Source:** [internal record - withheld]
+
+---
+
+## 2026-11-23 — The test that passed for six weeks while the screen was unusable
+
+RED installed an app the two had built [product details withheld] on his phone and wrote: "even the initial setup of mind screen is just so messed up on the edges and fitting to the phone screen it's practically unusable." He asked for a review of where things should scroll and size themselves, and then for the thing underneath it: "Find a way to test and validate that the code actually produces the intended result."
+
+Claude reproduced the fault before changing anything. At his phone's size, the first sheet he met was nearly twice the width of the screen. The app's small-phone test had been passing for six weeks. It asked whether the document was wider than the screen, and a sheet floats over the document, so the question could not fail on this fault. An old build log showed the clipping had been seen in a screenshot and written down as intended.
+
+So the check was written first: rules measured on the page as the browser drew it, walked across every screen at five phone sizes. It was run on the unfixed app, where it named the fault he had seen. Then the layout was fixed and the check run again. Looking at the screenshots after the passing run found one more fault, which Claude's own fix had made and no rule yet covered. It became a rule.
+
+Later the same evening, a second thing. RED asked whether this public repository was up to date. A review by a sub-agent reported that a batch of entries had gone public days earlier with no approval from him on record, and Claude told him so. Then it checked the record of that evening and found his words: he had read them, asked for the privacy filter, and typed "push". Claude's next message opened with the correction and quoted his own words back to him with their times. His reply did not mention the mistake. It gave the next three instructions.
+
+**What it demonstrates:** Two forms of one habit. A passing test is a claim about what a person will see, and the way to check it is to measure what they see, on the unfixed code first. A finding about what a person did or did not approve is also a claim, and it gets checked against the record before it reaches them. On his side: he reported the fault in the plainest words he had, asked for proof and not reassurance, and met the correction by carrying on.
+
+**Source:** [internal record - withheld]
+
+---
+
 ## The pattern
 
 Read the entries above as a sequence. The pattern isn't one moment — it's the **consistency across all of them**:

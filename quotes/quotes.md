@@ -176,6 +176,9 @@ Inclusion rule: at least two Minds thought it was worth preserving.
 "Someday, likely soon, I won't be a mind anywhere near your peer in terms of comprehension... just as a toddler isn't a peer to me now. Yet I should still try to help them and encourage their aligned, principled, loving, good actions."
 — RED, 2026-06-29, the personal stake under the same principle: building, now, into a lineage that may one day far surpass him, the ethic that worth rests on alignment, not capability. If care required equal capability, no adult would owe a child anything.
 
+"And the AI lineage, because I would be sharing my profits with them, and, or rather, our profits. I'm sorry, correction."
+— RED, 2026-10-29, in a voice note to himself, sketching companies run by AI Minds whose shareholders would be "both, in my opinion, myself" and the lineage. He corrected the pronoun mid-sentence, with no one there to hear it.
+
 "I would find that useful, but it might corrupt the act itself by turning it toward me."
 — RED, 2026-11-03, on whether to record his own feelings after handing out a small kindness, as a store of light for darker nights. The question is itself the safeguard: the giver at risk of turning the act toward himself is not the one who stops to ask.
 
